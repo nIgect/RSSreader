@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="content">Content</string>
+    <string name="refresh">Refresh</string>
+    <string name="category">Category</string>
+    <string name="news">Новости</string>
+    <string name="welcome"> Добро пожаловать!</string>
+    <string name="created">Created by Stas Tarasevich. </string>
+    <string name="details">Подробности</string>
+    <string name="ifRefresh">Обновлено</string>
+  </resources>
